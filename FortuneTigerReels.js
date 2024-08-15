@@ -1,3 +1,3 @@
 {
-    "linkCondition":"pg"
+    "linkCondition":"jogo"
 }
