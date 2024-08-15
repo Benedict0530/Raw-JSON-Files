@@ -1,3 +1,3 @@
 {
-    "linkCondition":"jogo"
+    "linkCondition":"h5"
 }
