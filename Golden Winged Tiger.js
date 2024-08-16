@@ -1,0 +1,3 @@
+{
+    "linkCondition":"jogo"
+}
