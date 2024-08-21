@@ -1,4 +1,4 @@
 {
     "linkCondition": "true",
-    "link": "https://aajoga.com/#/register?code=88905548&fbpixel=2624151484423830"
+    "link": "https://5518win.com/index?type=4&channelId=7381&fb_dynamic_pixel=2774791946023763"
 }
